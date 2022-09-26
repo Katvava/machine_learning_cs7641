@@ -1,7 +1,7 @@
 # Assignment 1: Supervised Learning
 
 
-## Runn the code
+## Run the code
 requirements:
 * pandas,  numpy, scikit-learn, matplotlib
 
