@@ -1,9 +1,9 @@
 # Assignment 1: Supervised Learning
 
 
-## Runn the code
+## Run the code
 requirements:
-* pandas,  nujpy, scikit-learn, matplotlib
+* pandas,  numpy, scikit-learn, matplotlib
 
 Code:
 * supervised.ipynb
