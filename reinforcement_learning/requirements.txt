@@ -1,0 +1,6 @@
+mdptoolbox
+mdptoolbox-hiive
+gym==0.21.0
+numpy
+pandas
+matplotlib
